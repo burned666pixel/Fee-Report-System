@@ -93,5 +93,4 @@ Step 9 : CLick on View Student.
 
 You can continue to explore edit & update records.
 
-Thanks and Regards,
-Apeksha Pathak.
+Thanks.
